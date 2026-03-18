@@ -1,4 +1,4 @@
-# 🏦 Banco Digital em Python (POO)
+#  Banco Digital em Python (POO)
 
 Projeto desenvolvido com foco em **Programação Orientada a Objetos (POO)**, simulando um sistema bancário com operações básicas como criação de clientes, contas, depósitos, saques e extrato.
 
